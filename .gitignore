@@ -1,0 +1,7 @@
+new_venv/
+venv/
+.idea/
+__pycache__/
+tests/.pytest_cache/
+tests/__init__.py
+
